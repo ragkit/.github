@@ -1,3 +1,3 @@
-# RAG Kit
+# Ragkit
 
-Tools to help with Retrieval Augmented Generation (RAG).
+Tools to help with retrieval augmented generation (RAG).
